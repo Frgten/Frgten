@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frgten&label=Profile%20views&color=0e75b6&style=flat" alt="frgten" /> </p>
 
-- 🌱 I’m currently learning **in Softuni JavaScrip Development.**
+- 🌱 I’m currently learning **in <a href='https://github.com/SoftUni'> Softuni</a> JavaScrip Development.**
 
 - 📫 How to reach me **daniel.delchev@yahoo.com**
 
