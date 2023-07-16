@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel Delchev</h1>
+<h1 align="left">Hi 👋, I'm Daniel Delchev</h1>
 <!-- <h3 align="center">A  frontend developer student</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frgten&label=Profile%20views&color=0e75b6&style=flat" alt="frgten" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=frgten&label=Profile%20views&color=0e75b6&style=flat" alt="frgten" /> </p> -->
 
 - 🌱 I’m currently learning **in <a href='https://github.com/SoftUni'> Softuni</a> JavaScrip Development.**
 
